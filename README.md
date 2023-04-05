@@ -53,7 +53,7 @@ The project can be built and run in the following ways
 ### 2. Build
 `npm run build`
 
-!['build ts to js'](./docs/images/build.png)
+!['build ts to js'](./assets/build.png)
 
 This command will build the typeScript code into JavaScript and save them in the `./build` folder.
 
